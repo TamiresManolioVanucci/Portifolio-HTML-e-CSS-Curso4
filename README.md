@@ -1,0 +1,1 @@
+Uso de medidas relativas e absolutas, uso de `REM`, adaptação de elementos, DevTools, visualização responsiva, `media query`, responsividade, porcentagem como unidade flexível, além de conceitos básicos sobre Git e GitHub, incluindo a criação de uma conta.
